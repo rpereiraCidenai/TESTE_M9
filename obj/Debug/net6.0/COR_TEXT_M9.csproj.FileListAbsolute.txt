@@ -1,0 +1,15 @@
+D:\CIDENAI\poo\COR_TEXT_M9\bin\Debug\net6.0\COR_TEXT_M9.exe
+D:\CIDENAI\poo\COR_TEXT_M9\bin\Debug\net6.0\COR_TEXT_M9.deps.json
+D:\CIDENAI\poo\COR_TEXT_M9\bin\Debug\net6.0\COR_TEXT_M9.runtimeconfig.json
+D:\CIDENAI\poo\COR_TEXT_M9\bin\Debug\net6.0\COR_TEXT_M9.dll
+D:\CIDENAI\poo\COR_TEXT_M9\bin\Debug\net6.0\COR_TEXT_M9.pdb
+D:\CIDENAI\poo\COR_TEXT_M9\obj\Debug\net6.0\COR_TEXT_M9.csproj.AssemblyReference.cache
+D:\CIDENAI\poo\COR_TEXT_M9\obj\Debug\net6.0\COR_TEXT_M9.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIDENAI\poo\COR_TEXT_M9\obj\Debug\net6.0\COR_TEXT_M9.AssemblyInfoInputs.cache
+D:\CIDENAI\poo\COR_TEXT_M9\obj\Debug\net6.0\COR_TEXT_M9.AssemblyInfo.cs
+D:\CIDENAI\poo\COR_TEXT_M9\obj\Debug\net6.0\COR_TEXT_M9.csproj.CoreCompileInputs.cache
+D:\CIDENAI\poo\COR_TEXT_M9\obj\Debug\net6.0\COR_TEXT_M9.dll
+D:\CIDENAI\poo\COR_TEXT_M9\obj\Debug\net6.0\refint\COR_TEXT_M9.dll
+D:\CIDENAI\poo\COR_TEXT_M9\obj\Debug\net6.0\COR_TEXT_M9.pdb
+D:\CIDENAI\poo\COR_TEXT_M9\obj\Debug\net6.0\COR_TEXT_M9.genruntimeconfig.cache
+D:\CIDENAI\poo\COR_TEXT_M9\obj\Debug\net6.0\ref\COR_TEXT_M9.dll
