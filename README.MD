@@ -1,6 +1,6 @@
 # TESTE_M9
 
-Projeto desenvolvido em C# como parte de uma avaliação prática do módulo 9 da disciplina de PSI. O objetivo é implementar uma classe `Livro` com atributos privados, métodos de acesso, e um método para exibir informações.
+Este projeto foi desenvolvido como parte de uma avaliação prática do Módulo 9 da disciplina de PSI, na **Escola Profissional de Serviços de Cidenai**. O objetivo é implementar uma classe `Livro` em C#, cumprindo os requisitos estabelecidos no enunciado.
 
 ## Requisitos da Classe Livro
 
